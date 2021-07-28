@@ -1,0 +1,18 @@
+		 Welcome to NMR Retail
+
+ Bill Number :- 1561
+ Name :- Mahesh Nanera
+ Phone Number :- 9574731621
+ =========================================================		Product 		Qty		Price
+ =========================================================
+	Bath Shop		1		Rs. 40
+	Hair Spray		1		Rs. 40
+	Tea		1		Rs. 180
+	Thumbs Up		1		Rs. 45
+
+ ---------------------------------------------------------
+	Cosmetic Tax				RS. 11.0
+	Grocery tax				RS. 18.0
+	Cosmetic Tax				RS. 2.25
+ ---------------------------------------------------------
+	 Total Bill				Rs. 476.25
